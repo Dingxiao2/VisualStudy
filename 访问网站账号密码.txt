@@ -1,0 +1,4 @@
+http://localhost:8081/StuAMSystem/login/login.jsp
+管理员账号密码  1  123
+学生账号密码  123  123 
+老师账号密码  1123 11 
